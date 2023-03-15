@@ -1,8 +1,6 @@
 Holacracy
 
-# 2023ss_do_sk
-
-# 2023ss_do_sk
+# Holacracy
 
 Holacracy is a system of organizational governance that aims to distribute authority and decision-making power among all members of a team or organization. It was developed by Brian Robertson in 2007 and is based on the principles of self-organization, distributed control, and adaptive management.
 
