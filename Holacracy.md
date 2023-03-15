@@ -4,6 +4,8 @@ Holacracy
 
 Holacracy is a system of organizational governance that aims to distribute authority and decision-making power among all members of a team or organization. It was developed by Brian Robertson in 2007 and is based on the principles of self-organization, distributed control, and adaptive management.
 
+![Alt text](../../../../Downloads/Holacracy.jpg)
+
 Source: https://commons.wikimedia.org/wiki/File:Holacracy.jpg
 
 In a holacratic organization, there are no traditional managers or hierarchical structures. Instead, teams are organized into self-governing circles that are responsible for specific functions or projects. Each circle has a set of roles with defined responsibilities and accountabilities, and members of the circle are empowered to make decisions within their roles.
