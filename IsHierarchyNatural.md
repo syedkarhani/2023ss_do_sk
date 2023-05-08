@@ -186,13 +186,11 @@ Conclusion
 
 <small style="font-size: 24px;">
 
-The answer is not a simple yes or no. The question of whether hierarchy is a natural order is complex and multifaceted, and can be argued from different perspectives.
+Hierarchies do exist in nature. However, the question of whether hierarchy is a natural order is complex and multifaceted, and can be argued from different perspectives.
 
-While there are arguments in favour of hierarchy as a necessary and beneficial aspect of human society, there are also arguments against hierarchy as oppressive and unjust.
+Ultimately, the answer may depend on the specific context and nature of the hierarchy in question. And the perspective of an individual.
 
-Ultimately, the answer may depend on the specific context and nature of the hierarchy in question.
-
-However, it is important to critically examine and challenge hierarchical structures where appropriate, and to strive for greater equity, justice and individual freedom.
+It is important to critically examine and challenge hierarchical structures where appropriate, and to strive for greater equity, justice and individual freedom.
 
 ---
 
