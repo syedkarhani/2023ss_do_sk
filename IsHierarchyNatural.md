@@ -19,10 +19,10 @@ References:
 - Boudreaux, C. J., & Lakhani, K. R. (2020). Hierarchy and its discontents. Harvard Business Review, 98(2), 74-81.
 - Wilson, E. O. (1971). The insect societies. Harvard University Press.
 - Hölldobler, B., & Wilson, E. O. (1990). The ants. Harvard University Press.
-Sapolsky, R. M. (2005). The influence of social hierarchy on primate health. Science, 308(5722), 648-652.
-Boehm, C. (2012). Moral origins: The evolution of virtue, altruism, and shame. Basic Books.
-Dunbar, R. I. (2012). Bridging the bonding gap: The transition from primates to humans. Philosophical Transactions of the Royal Society B, 367(1597), 1837-1846.
-Johnson, D. D. P., & Price, M. E. (2011). The emergence of lethal intergroup violence in prehistoric hunter-gatherer societies. PLoS One, 6(2), e15871.
-Bonabeau, E. (2002). Agent-based modeling: Methods and techniques for simulating human systems. Proceedings of the National Academy of Sciences, 99(suppl 3), 7280-7287.
-Gruenfeld, D. H., & Martorana, P. V. (2016). The hidden costs of hierarchy. Research in Organizational Behavior, 36, 39-52.
-Pratto, F., & Hegarty, P. (2000). The political psychology of reproductive strategies. Psychological Science, 11(1), 57-62.
+- Sapolsky, R. M. (2005). The influence of social hierarchy on primate health. Science, 308(5722), 648-652.
+- Boehm, C. (2012). Moral origins: The evolution of virtue, altruism, and shame. Basic Books.
+- Dunbar, R. I. (2012). Bridging the bonding gap: The transition from primates to humans. Philosophical Transactions of the Royal Society B, 367(1597), 1837-1846.
+- Johnson, D. D. P., & Price, M. E. (2011). The emergence of lethal intergroup violence in prehistoric hunter-gatherer societies. PLoS One, 6(2), e15871.
+- Bonabeau, E. (2002). Agent-based modeling: Methods and techniques for simulating human systems. Proceedings of the National Academy of Sciences, 99(suppl 3), 7280-7287.
+- Gruenfeld, D. H., & Martorana, P. V. (2016). The hidden costs of hierarchy. Research in Organizational Behavior, 36, 39-52.
+- Pratto, F., & Hegarty, P. (2000). The political psychology of reproductive strategies. Psychological Science, 11(1), 57-62.
