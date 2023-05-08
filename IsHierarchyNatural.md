@@ -38,7 +38,7 @@ Understanding hierarchy is important because it can provide insights into power 
 
 <small style="font-size: 32px;">
 
-Answering the titular question
+Pondering the titular question
 
 <small style="font-size: 24px;">
 
@@ -98,6 +98,104 @@ On the other hand, hierarchical systems can be rigid and inflexible, limiting in
 
 ---
 
+<small style="font-size: 32px;">
+
+Historical and cultural roots of hierarchy
+
+<small style="font-size: 24px;">
+
+The historical and cultural roots of hierarchy can be traced back to the earliest human societies, where leaders emerged through a combination of factors such as wealth, strength or charisma.
+
+Over time, these early hierarchies were formalised through systems of government, religion and social class, and have become deeply ingrained in many cultures around the world.
+
+<small style="font-size: 16px;">
+
+(Diamond, 1997; Hofstede, 1994)
+
+---
+
+<small style="font-size: 32px;">
+
+Different forms of hierarchy in societies
+
+<small style="font-size: 24px;">
+
+Different forms of hierarchy in human societies include political, economic and social hierarchies, as well as hierarchies based on factors such as race, gender or religion.
+
+These hierarchies can take many different forms, ranging from formalised systems of government or class to more subtle forms of discrimination or social exclusion.
+
+<small style="font-size: 16px;">
+
+(Collins, 2000; Gilens, 2005; Weber, 2013)
+
+---
+
+<small style="font-size: 32px;">
+
+The role of hierarchy in shaping social structures and individual behaviour
+
+<small style="font-size: 24px;">
+
+The role of hierarchy in shaping social structures and individual behaviour can be significant.
+
+Hierarchies can influence power dynamics, decision-making and social norms, and shape the way individuals perceive themselves and others.
+
+These effects can be both positive and negative, depending on the context and the nature of the hierarchy.
+
+<small style="font-size: 16px;">
+
+(Durkheim, 1984; Milgram, 1974; Ridgeway, 2014)
+
+---
+
+<small style="font-size: 32px;">
+
+Arguments in favour of hierarchy as a natural order
+
+<small style="font-size: 24px;">
+
+Arguments in favour of hierarchy as a natural order suggest that hierarchical structures are deeply rooted in human societies and may be necessary for effective decision-making, social organisation and individual fulfilment.
+
+Proponents of hierarchy argue that hierarchical systems can promote efficiency, stability and innovation, and that attempts to eliminate hierarchy can lead to chaos or stagnation.
+
+<small style="font-size: 16px;">
+
+(Peterson, 2018; Pinker, 2011; Wilson, 2012)
+
+---
+
+<small style="font-size: 32px;">
+
+Arguments against hierarchy as a natural order
+
+<small style="font-size: 24px;">
+
+Arguments against hierarchy as a natural order suggest that hierarchical structures can be oppressive, unfair and based on arbitrary or unjustifiable distinctions.
+
+Critics of hierarchy argue that it can lead to the concentration of power and resources in the hands of a few, and that it can inhibit creativity, innovation and individual autonomy.
+
+<small style="font-size: 16px;">
+
+(Kropotkin, 2017; Lerner, 1980; Zinn, 2015)
+
+---
+
+<small style="font-size: 32px;">
+
+Conclusion
+
+<small style="font-size: 24px;">
+
+The answer is not a simple yes or no. The question of whether hierarchy is a natural order is complex and multifaceted, and can be argued from different perspectives.
+
+While there are arguments in favour of hierarchy as a necessary and beneficial aspect of human society, there are also arguments against hierarchy as oppressive and unjust.
+
+Ultimately, the answer may depend on the specific context and nature of the hierarchy in question.
+
+However, it is important to critically examine and challenge hierarchical structures where appropriate, and to strive for greater equity, justice and individual freedom.
+
+---
+
 <small style="font-size: 16px;">
 
 References:
@@ -113,3 +211,14 @@ References:
 - Bonabeau, E. (2002). Agent-based modeling: Methods and techniques for simulating human systems. Proceedings of the National Academy of Sciences, 99(suppl 3), 7280-7287.
 - Gruenfeld, D. H., & Martorana, P. V. (2016). The hidden costs of hierarchy. Research in Organizational Behavior, 36, 39-52.
 - Pratto, F., & Hegarty, P. (2000). The political psychology of reproductive strategies. Psychological Science, 11(1), 57-62.
+- Diamond, J. (1997). Guns, germs, and steel: The fates of human societies. W. W. Norton & Company.
+- Hofstede, G. (1994). Cultures and organizations: Software of the mind. McGraw-Hill.
+- Collins, R. (2000). Stratification, emotional energy, and the transient emotions. Research in Microsociology, 407-429.
+- Gilens, M. (2005). Inequality and democratic responsiveness. Public Opinion Quarterly, 69(5), 778-796.
+- Weber, M. (2013). Economy and society: An outline of interpretive sociology. University of California Press.
+- Peterson, J. B. (2018). 12 Rules for Life: An Antidote to Chaos. Penguin.
+- Pinker, S. (2011). The Better Angels of Our Nature: Why Violence Has Declined. Penguin.
+- Wilson, E. O. (2012). The Social Conquest of Earth. WW Norton & Company.
+- Kropotkin, P. (2017). The Conquest of Bread. Penguin.
+- Lerner, M. J. (1980). The belief in a just world: A fundamental delusion. Springer.
+- Zinn, H. (2015). A People's History of the United States. Harper Perennial Modern Classics.
