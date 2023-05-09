@@ -1,4 +1,4 @@
-#Is Hierarchy a Natural Order?
+Is Hierarchy a Natural Order?
 
 Hierarchy refers to a system of ranking and organising individuals, groups or things in order of importance, power or authority. This can take many forms, including social hierarchies, organisational hierarchies, and hierarchical structures in nature. (Oxford Languages, 2021)
 
