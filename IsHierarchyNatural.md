@@ -1,3 +1,5 @@
+#Is Hierarchy a Natural Order?
+
 Hierarchy refers to a system of ranking and organising individuals, groups or things in order of importance, power or authority. This can take many forms, including social hierarchies, organisational hierarchies, and hierarchical structures in nature. (Oxford Languages, 2021)
 
 Understanding hierarchy is important because it can provide insights into power dynamics, social structures and organisational behaviour, which in turn can inform strategies for navigating and influencing these systems. (Boudreaux et al., 2020)
