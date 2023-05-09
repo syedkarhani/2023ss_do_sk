@@ -1,4 +1,4 @@
-##Is Hierarchy a Natural Order?
+Is Hierarchy a Natural Order?
 
 Definition of hierarchy
 
