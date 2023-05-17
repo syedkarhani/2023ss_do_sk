@@ -1,10 +1,12 @@
-<small style="font-size: 48px;">
-
 <img src="Image by AndreasAux from Pixabay.jpg">
+
+<small style="font-size: 48px;">
 
 Is Hierarchy a Natural Order?
 
 ---
+
+<img src="Hierarchy Group.png">
 
 <small style="font-size: 32px;">
 
@@ -22,6 +24,8 @@ This can take many forms, including social hierarchies, organisational hierarchi
 
 ---
 
+<img src="understanding hierarchy.png">
+
 <small style="font-size: 32px;">
 
 Importance of understanding hierarchy
@@ -36,6 +40,8 @@ Understanding hierarchy is important because it can provide insights into power 
 
 ---
 
+<img src="natural order.png">
+
 <small style="font-size: 32px;">
 
 Pondering the titular question
@@ -45,6 +51,8 @@ Pondering the titular question
 While hierarchy can be observed in various forms throughout the natural world and is a fundamental aspect of human social organisation, its status as a 'natural order' is a matter of interpretation and context, shaped by cultural, historical and institutional factors.
 
 ---
+
+<img src="hierarchical structures.png">
 
 <small style="font-size: 32px;">
 
@@ -61,6 +69,8 @@ Similarly, in many animal species, individuals may compete for access to resourc
 (Hölldobler et al., 1990; Wilson, 1971; Sapolsky, 2005)
 
 ---
+
+<img src="evolutionary basis.png">
 
 <small style="font-size: 32px;">
 
@@ -80,6 +90,8 @@ This can lead to the formation of hierarchical structures within social groups a
 
 ---
 
+<img src="nature.png">
+
 <small style="font-size: 32px;">
 
 The benefits and drawbacks of hierarchical structures in nature
@@ -98,6 +110,8 @@ On the other hand, hierarchical systems can be rigid and inflexible, limiting in
 
 ---
 
+<img src="history.png">
+
 <small style="font-size: 32px;">
 
 Historical and cultural roots of hierarchy
@@ -114,6 +128,8 @@ Over time, these early hierarchies were formalised through systems of government
 
 ---
 
+<img src="society.png">
+
 <small style="font-size: 32px;">
 
 Different forms of hierarchy in societies
@@ -129,6 +145,8 @@ These hierarchies can take many different forms, ranging from formalised systems
 (Collins, 2000; Gilens, 2005; Weber, 2013)
 
 ---
+
+<img src="behaviour.png">
 
 <small style="font-size: 32px;">
 
@@ -148,6 +166,8 @@ These effects can be both positive and negative, depending on the context and th
 
 ---
 
+<img src="favour.png">
+
 <small style="font-size: 32px;">
 
 Arguments in favour of hierarchy as a natural order
@@ -164,6 +184,8 @@ Proponents of hierarchy argue that hierarchical systems can promote efficiency, 
 
 ---
 
+<img src="against.png">
+
 <small style="font-size: 32px;">
 
 Arguments against hierarchy as a natural order
@@ -179,6 +201,8 @@ Critics of hierarchy argue that it can lead to the concentration of power and re
 (Kropotkin, 2017; Lerner, 1980; Zinn, 2015)
 
 ---
+
+<img src="conclusion.png">
 
 <small style="font-size: 32px;">
 
