@@ -1,14 +1,7 @@
-<<<<<<< HEAD
 <img src="Image by AndreasAux from Pixabay.jpg">
-=======
-Is Hierarchy a Natural Order?
-
-Definition of hierarchy
->>>>>>> feb09510d5f68400fa8ca51758a19b54107a1ecb
 
 <small style="font-size: 48px;">
 
-<<<<<<< HEAD
 Is Hierarchy a Natural Order?
 
 ---
@@ -53,21 +46,11 @@ Understanding hierarchy is important because it can provide insights into power 
 
 Pondering the titular question
 
+# <img src="hierarchical structures.png">
+
 <small style="font-size: 24px;">
-=======
-Importance of understanding hierarchy
 
-Understanding hierarchy is important because it can provide insights into power dynamics, social structures and organisational behaviour, which in turn can inform strategies for navigating and influencing these systems. (Boudreaux et al., 2020)
->>>>>>> feb09510d5f68400fa8ca51758a19b54107a1ecb
-
-Pondering the titular question
-
-<<<<<<< HEAD
----
-
-<img src="hierarchical structures.png">
-=======
-While hierarchy can be observed in various forms throughout the natural world and is a fundamental aspect of human social organisation, its status as a 'natural order' is a matter of interpretation and context, shaped by cultural, historical and institutional factors. 
+While hierarchy can be observed in various forms throughout the natural world and is a fundamental aspect of human social organisation, its status as a 'natural order' is a matter of interpretation and context, shaped by cultural, historical and institutional factors.
 
 Examples of hierarchical structures in the natural world
 
@@ -78,7 +61,8 @@ The evolutionary basis of hierarchy
 The evolutionary basis of hierarchy can be traced back to the need for animals to compete for resources such as food, mates and shelter. Over time, certain individuals can develop traits or behaviours that give them an advantage in these competitions, allowing them to gain higher status and access to more resources. This can lead to the formation of hierarchical structures within social groups as individuals seek to maintain and improve their position within the group. (Boehm, 2012; Dunbar, 2012; Johnson et al., 2011)
 
 The benefits and drawbacks of hierarchical structures in nature
->>>>>>> feb09510d5f68400fa8ca51758a19b54107a1ecb
+
+> > > > > > > feb09510d5f68400fa8ca51758a19b54107a1ecb
 
 <small style="font-size: 32px;">
 
@@ -245,8 +229,8 @@ It is important to critically examine and challenge hierarchical structures wher
 
 ---
 
-<small style="font-size: 16px;">
-=======
+# <small style="font-size: 16px;">
+
 Historical and cultural roots of hierarchy
 
 The historical and cultural roots of hierarchy can be traced back to the earliest human societies, where leaders emerged through a combination of factors such as wealth, strength or charisma. Over time, these early hierarchies were formalised through systems of government, religion and social class, and have become deeply ingrained in many cultures around the world. (Diamond, 1997; Hofstede, 1994)
@@ -270,7 +254,8 @@ Arguments against hierarchy as a natural order suggest that hierarchical structu
 Conclusion
 
 Hierarchies do exist in nature. However, the question of whether hierarchy is a natural order is complex and multifaceted, and can be argued from different perspectives. Ultimately, the answer may depend on the specific context and nature of the hierarchy in question. And the perspective of an individual. It is important to critically examine and challenge hierarchical structures where appropriate, and to strive for greater equity, justice and individual freedom.
->>>>>>> feb09510d5f68400fa8ca51758a19b54107a1ecb
+
+> > > > > > > feb09510d5f68400fa8ca51758a19b54107a1ecb
 
 References:
 
